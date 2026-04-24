@@ -1,4 +1,4 @@
-## Solo un programador amateur con muchas ganas de idear.
+## Solo un programador amateur con muchas ganas de innovar.
 </br>
 
 
