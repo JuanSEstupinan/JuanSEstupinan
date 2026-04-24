@@ -1,4 +1,8 @@
-## Hi there 👋
+## Solo un programador amateur con muchas ganas de idear.
+</br>
+
+
+Eso es todo
 
 <!--
 **JuanSEstupinan/JuanSEstupinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
